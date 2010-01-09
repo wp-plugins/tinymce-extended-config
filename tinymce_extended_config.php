@@ -3,14 +3,14 @@
  * Plugin Name: TinyMCE Extended Config
  * Plugin URI: http://willshouse.com/tinymce-extended-config/
  * Description: Allows one to configure some of the advanced settings of the TinyMCE editor, like the block formats. (theme_advanced_blockformats)
- * Version: 0.1
+ * Version: 0.1.0
  * Author: Will Clarke
  * Author URI: http://www.willshouse.com/
  * 
  * Allows one to configure some of the advanced settings of the TinyMCE 
  * editor, like the block formats. (theme_advanced_blockformats)
  * 
- * Copyright (C) 2008-2009 Will Clarke
+ * Copyright (C) 2008-2009
  */
 
 /**
